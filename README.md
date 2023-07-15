@@ -1,2 +1,2 @@
 # Task1-LedMatrix
-Design a led matrix circuit
+Design 5*5 led matrix circuit using a resistor 
